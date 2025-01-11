@@ -1,1 +1,1 @@
-# odin-linksandimages
+# The Odin Project - Links and Images
